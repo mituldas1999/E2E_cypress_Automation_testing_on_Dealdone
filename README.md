@@ -1,10 +1,10 @@
-# E2E_cypress_Automation_testing_on_Dealdone
 
-Brief description of your project.
-
-## Getting Started
+# E2E cypress Automation testing on Dealdone
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+
+
 
 ### Prerequisites
 
@@ -15,20 +15,23 @@ List any prerequisites that are needed to run this project. For example:
 - npm or yarn
 - Any other software or dependencies required
 
-### Installation
+
+
+## Installation
 
 A step-by-step series of examples that tell you how to get a development environment running.
 
-1. **Clone the Repository**
+**Clone the Repository**
 
-   First, clone the project repository from GitHub to your local machine:
+ First, clone the project repository from GitHub to your local machine:
 
-   ```bash
-   git clone https://github.com/mituldas1999/E2E_cypress_Automation_testing_on_Dealdone
+```bash
+  git clone https://github.com/mituldas1999/E2E_cypress_Automation_testing_on_Dealdone
    cd E2E_cypress_Automation_testing_on_Dealdone
+```
+    
 
-
-# E2E cypress Automation testing on Dealdone Test Results
+## Test Results
 
 Below is a summary of the E2E_cypress_Automation_testing_on_Dealdone:
 
@@ -56,4 +59,10 @@ Below is a summary of the E2E_cypress_Automation_testing_on_Dealdone:
 | 2-advanced-examples/window.cy.js              | 00:05    | 3     | 3       | -       | -       | -       |
 | dealdone UI/visit.cy.js                       | 00:09    | 1     | -       | 1       | -       | -       |
 
-**Summary:** 1 of 21 failed (5%), Total Time: 03:37, Total Tests: 125, Passed: 124, Failed: 1
+## **Summary:** 1 of 21 failed (5%), Total Time: 03:37, Total Tests: 125, Passed: 124, Failed: 1
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at mituldas751@gmail.com
