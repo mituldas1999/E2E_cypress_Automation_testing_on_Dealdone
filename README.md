@@ -28,9 +28,9 @@ A step-by-step series of examples that tell you how to get a development environ
    cd E2E_cypress_Automation_testing_on_Dealdone
 
 
-# Cypress Test Results
+# E2E cypress Automation testing on Dealdone Test Results
 
-Below is a summary of the Cypress test results:
+Below is a summary of the E2E_cypress_Automation_testing_on_Dealdone:
 
 | Spec File                                     | Duration | Tests | Passing | Failing | Pending | Skipped |
 |-----------------------------------------------|----------|-------|---------|---------|---------|---------|
